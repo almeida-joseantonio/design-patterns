@@ -1,6 +1,6 @@
 # Design Patterns
 
-Practical session for all classic GoF design patterns, using Java.
+Practical session for all classic *GoF* design patterns, using Java.
 
 Some implementation were shamelessly copied from [Refactoring Guru](https://refactoring.guru/).
 
